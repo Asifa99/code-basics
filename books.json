@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "metadata": {
+            "price": 1500,
+            "categories": ["drama", "tragedy"],
+            "isbn": "9781234567890",
+            "pages": 283
+        }
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "metadata": {
+            "price": 1200,
+            "categories": ["fantasy", "adventure"],
+            "isbn": "9780987654321",
+            "pages": 310
+        }
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "metadata": {
+            "price": 900,
+            "categories": ["dystopian", "sci-fi"],
+            "isbn": "9781122334455",
+            "pages": 328
+        }
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "metadata": {
+            "price": 1300,
+            "categories": ["classic", "historical"],
+            "isbn": "9782233445566",
+            "pages": 281
+        }
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "metadata": {
+            "price": 1000,
+            "categories": ["classic", "fiction"],
+            "isbn": "9783344556677",
+            "pages": 180
+        }
+    }
+]
